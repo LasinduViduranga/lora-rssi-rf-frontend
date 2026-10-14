@@ -1,0 +1,19 @@
+# KiCad
+*-backups/
+*.bak
+*.kicad_prl
+fp-info-cache
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# STM32CubeIDE build output
+Debug/
+Release/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+# Large files (keep out of git)
+*.mp4
+*.mov
